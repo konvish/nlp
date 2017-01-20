@@ -1,0 +1,4 @@
+rootProject.name = 'nlp'
+include 'ml'
+include 'spider'
+

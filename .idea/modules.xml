@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ml/ml.iml" filepath="$PROJECT_DIR$/.idea/modules/ml/ml.iml" group="ml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ml/ml_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ml/ml_main.iml" group="ml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ml/ml_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ml/ml_test.iml" group="ml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nlp.iml" filepath="$PROJECT_DIR$/.idea/modules/nlp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nlp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/nlp_main.iml" group="nlp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nlp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/nlp_test.iml" group="nlp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spider/spider.iml" filepath="$PROJECT_DIR$/.idea/modules/spider/spider.iml" group="spider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spider/spider_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spider/spider_main.iml" group="spider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spider/spider_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spider/spider_test.iml" group="spider" />
+    </modules>
+  </component>
+</project>

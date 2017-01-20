@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.hbase:hbase-protocol:1.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hbase/hbase-protocol/1.0.3/3940343ef7ed3ceffdd8a07fd73dbc72d8757851/hbase-protocol-1.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hbase/hbase-protocol/1.0.3/cc1a49a34d0cd6372b8003247152aa1149dfdb52/hbase-protocol-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
