@@ -15,9 +15,9 @@
 3. 测试
 4. 测试
 
-·bash(javascript)
+`bash(javascript)
 print("fffff")
-···
+```
 
 表格
 </br>
